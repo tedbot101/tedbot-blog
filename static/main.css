@@ -57,3 +57,10 @@
   animation: blink 1s steps(4, start) infinite;
   
 }
+
+.contact-header{
+  font-family: 'Roboto', sans-serif;
+}
+.contact-info{
+  font-family: 'Roboto', sans-serif;
+}
